@@ -23,7 +23,7 @@
 	  	"url": "git://github.com/Silvacom/colResize.git"
 	},
 	"dependencies": {
-		"jquery": ">=1.7.0",
-		"datatables": ">=1.10.2"
+		"jquery": ">=1.11.0",
+		"datatables.net": ">=1.10.9",
 	}
 }
